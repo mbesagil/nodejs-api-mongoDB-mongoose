@@ -1,0 +1,5 @@
+EMAIL_HOST=srvm09.trwww.com
+EMAIL_PORT=587
+EMAIL_USER=mesutbesagil@ikonel.com
+EMAIL_PASSWORD=Ikonel423806
+EMAIL_FROM=Mesut Passerrr 👻 <mesutbesagil@ikonel.com>
